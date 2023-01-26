@@ -1,0 +1,53 @@
+.style {
+    font-family: 'Times New Roman', Times, serif;
+}
+.logo {
+    width: 351px;
+    margin: auto;
+}
+.table {
+    width: 90%;
+    height: 140px;
+}
+.container {
+    width: 99%;
+    height: 60px;
+    margin: auto;
+    text-align: center;
+}
+.bggray {
+    background-color: #e4e4e4;
+}
+#textbox {
+    width: 25%;
+    margin-top: 0;
+}
+.container2 {
+    width: 33%;
+    height: 80px;
+    background-color: #7EE5DA;
+    text-align: center;
+    margin: 3px 1px;
+    padding: 1px;
+    float: left;
+}
+.container3 {
+    background-color: #70CCC2;
+    text-align: center;
+    margin: 3px 1px;
+    padding: 1px;
+    width: 33%;
+    height: 80px;
+    float: left;
+    font-size: 13px;
+}
+.container4 {
+    background-color: #62B3AA;
+    text-align: center;
+    margin: 3px 1px;
+    padding: 1px;
+    width: 33%;
+    height: 80px;
+    float: left;
+    font-size: 11px;
+}
