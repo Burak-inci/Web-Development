@@ -1,0 +1,19 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow {
+    background-color: #FFC017; 
+}
+
+.border-bottom-dark {
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+.aside-buttons > li {
+    margin-bottom: 10px;
+}
+
+.footer-font-size {
+    font-size: 12px;
+}
